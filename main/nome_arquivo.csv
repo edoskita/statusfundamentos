@@ -61,9 +61,9 @@ CDB,,1825 dias,1000.0,120.0% CDI,BANCO MASTER S/A ,No Vencimento,False,False,120
 CDB,,1095 dias,1000.0,120.0% CDI,BANCO MASTER S/A ,No Vencimento,False,False,120.0,,No vencimento,Fitch,Fitch,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 CDB,,1095 dias,1000.0,120.0% CDI,BANCO MASTER S/A ,No Vencimento,False,False,120.0,,Sem carência,BBB-,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,1825 dias,1000.0,120.0% CDI,BANCO MASTER S/A ,No Vencimento,False,False,120.0,,Sem carência,BBB-,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
-CDB,,2160 dias,1000.0,120.0% CDI,BANCO MASTER,No vencimento,False,False,120.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,120.0% CDI,BANCO GUANABARA,No vencimento,False,False,120.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,1805 dias,1000.0,120.0% CDI,BANCO MASTER,No vencimento,False,False,120.0,Vencimento,2028-05-03,BBB-,Fitch,1000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
+CDB,,2160 dias,1000.0,120.0% CDI,BANCO MASTER,No vencimento,False,False,120.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,2190 dias,1000.0,CDI + 2.55%,BANCO MASTER S/A ,No Vencimento,False,False,2.55,,No vencimento,Fitch,Fitch,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 CDB,,2190 dias,1000.0,CDI + 2.55%,BANCO MASTER S/A ,No Vencimento,False,False,2.55,,Sem carência,BBB-,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 DEB,,2945 dias,1080.151882,CDI + 2.5%,VAMOS ,No Vencimento,False,False,2.5,,No vencimento,S&P,S&P,1080.151882,Rico,0.0,Rico,False,Corretora,False,,,S
@@ -192,12 +192,6 @@ CDB,,1442 dias,1000.0,115.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False
 CDB,,1800 dias,10000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,Vencimento,0,B+,Fitch,10000.0,Banco Daycoval,12.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,1080 dias,10000.0,115.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False,115.0,Vencimento,0,BB+,Fitch,10000.0,Banco Daycoval,15.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,1080 dias,5000.0,115.0% CDI,WILL BANK,No vencimento,False,False,115.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,1080 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1260 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1440 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,721 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1080 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1810 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,Vencimento,2024-05-24,BBB-,Fitch,1000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
 LC,,1805 dias,5000.0,115.0% CDI,AGORACRED,No vencimento,False,False,115.0,Vencimento,2028-05-03,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,1805 dias,1000.0,115.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False,115.0,Vencimento,2028-05-03,BB+,Fitch,1000.0,Órama,15.0,Orama,True,Distribuidora,True,,,P
@@ -207,6 +201,12 @@ CDB,,1446 dias,1000.0,115.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False
 CDB,,1265 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,Vencimento,2026-11-10,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
 CDB,,1085 dias,1000.0,115.0% CDI,BANCO OMNI,No vencimento,False,False,115.0,Vencimento,2026-05-14,A,S&P,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
 CDB,,1085 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,Vencimento,2026-05-14,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
+CDB,,1080 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1260 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1440 dias,1000.0,115.0% CDI,BANCO BMG,No vencimento,False,False,115.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,721 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1080 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1810 dias,1000.0,115.0% CDI,BANCO MASTER,No vencimento,False,False,115.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 DEBÊNTURE,,1468 dias,21240.0,114.7% CDI,UNIDAS S.A.,No vencimento,False,False,114.7,Vencimento,12/04/2027,,,21240.0,Guide,0.0,Guide,False,Corretora,,,,S
 CRA,,1245 dias,1025.352196,CDI + 1.9%,GIRASSOL ,No Vencimento,True,True,1.9,,No vencimento,S&P,S&P,1025.352196,Rico,0.0,Rico,False,Corretora,False,,,S
 CDB,,1097 dias,1000.0,114.75% CDI,AGIBANK,No Vencimento,False,False,114.75,,No Vencimento,BBB+,Fitch,1000.0,RB Investimentos,18.0,RB Investimentos,False,Corretora,False,,,P
@@ -278,11 +278,6 @@ CDB,,1800 dias,5000.0,114.0% CDI,BANCO SEMEAR,No vencimento,False,False,114.0,Ve
 CDB,,1440 dias,5000.0,114.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,114.0,Vencimento,0,BBB,S&P,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,1800 dias,5000.0,114.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,114.0,Vencimento,0,BBB,S&P,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 LF,,1461 dias,50000.0,114.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,114.0,Vencimento,0,AA,Fitch,50000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,1080 dias,1000.0,114.0% CDI,BANCO ARBI,No vencimento,False,False,114.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1800 dias,1000.0,114.0% CDI,BANCO ARBI,No vencimento,False,False,114.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,900 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1800 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1800 dias,1000.0,114.0% CDI,BANCO DIGIMAIS,No vencimento,False,False,114.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1083 dias,100.0,114.0% CDI,BANCO ORIGINAL,No vencimento,False,False,114.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 CDB,,2525 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,Vencimento,2030-04-23,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
 CDB,,2167 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,Vencimento,2029-04-30,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
@@ -293,6 +288,11 @@ CDB,,907 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,Vencim
 CDB,,1085 dias,1000.0,114.0% CDI,BANCO ARBI,No vencimento,False,False,114.0,Vencimento,2026-05-14,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,1085 dias,1000.0,114.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False,114.0,Vencimento,2026-05-14,BB+,Fitch,1000.0,Órama,15.0,Orama,True,Distribuidora,True,,,P
 CDB,,1085 dias,1000.0,114.0% CDI,BANCO ORIGINAL,No vencimento,False,False,114.0,Vencimento,2026-05-14,BB+,Fitch,1000.0,Órama,15.0,Orama,True,Distribuidora,True,,,P
+CDB,,1080 dias,1000.0,114.0% CDI,BANCO ARBI,No vencimento,False,False,114.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1800 dias,1000.0,114.0% CDI,BANCO ARBI,No vencimento,False,False,114.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,900 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1800 dias,1000.0,114.0% CDI,BANCO BMG,No vencimento,False,False,114.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1800 dias,1000.0,114.0% CDI,BANCO DIGIMAIS,No vencimento,False,False,114.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 DEB,,2067 dias,1119.93,IPCA +9.37%,WECLIX TELECOM S.A.,No vencimento,True,True,9.37,Vencimento,15/10/2028,,,1119.93,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 DEB,,2067 dias,1119.93,IPCA +9.37%,WECLIX TELECOM S.A.,No vencimento,True,True,9.37,Vencimento,15/10/2028,,,1119.93,Necton,0.0,Necton,False,Corretora,False,,,S
 CDB,,1440 dias,1000.0,113.5% CDI,PARANA BANCO,No vencimento,False,False,113.5,Vencimento,1440 dias dias,AA+,S&P,1000.0,Nova Futura,24.0,Nova Futura,False,Corretora,False,,,P
@@ -356,11 +356,6 @@ CDB,,1800 dias,5000.0,113.0% CDI,BANCO OMNI,No vencimento,False,False,113.0,Venc
 LF,,1096 dias,50000.0,113.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,113.0,Vencimento,0,AA,Fitch,50000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
 LF,,721 dias,50000.0,113.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,113.0,Vencimento,0,BBB,S&P,50000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,721 dias,50.0,113.0% CDI,BANCO RCI,No vencimento,False,False,113.0,Vencimento,No vencimento,AA+,Moodys,50.0,Banco RCI,24.0,Banco RCI,False,Banco,True,,https://bancorci.onelink.me/J1lr/a5dbb6eb,P
-CDB,,721 dias,1000.0,113.0% CDI,BANCO BMG,No vencimento,False,False,113.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,721 dias,10000.0,113.0% CDI,BANCO BS2,No vencimento,False,False,113.0,,,BBB,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1825 dias,1000.0,113.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,113.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1081 dias,5000.0,113.0% CDI,C6 BANK,No vencimento,False,False,113.0,,,A-,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1080 dias,1000.0,113.0% CDI,BANCO DIGIMAIS,No vencimento,False,False,113.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,721 dias,100.0,113.0% CDI,BANCO ORIGINAL,No vencimento,False,False,113.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 CDB,,725 dias,1000.0,113.0% CDI,BANCO BS2,No vencimento,False,False,113.0,Vencimento,2025-05-19,BBB,Fitch,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,113.0% CDI,BANCO BMG,No vencimento,False,False,113.0,Vencimento,2025-05-19,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
@@ -369,6 +364,11 @@ CDB,,1805 dias,1000.0,113.0% CDI,BANCO SEMEAR,No vencimento,False,False,113.0,Ve
 LC,,1805 dias,10000.0,113.0% CDI,SANTINVEST,No vencimento,False,False,113.0,Vencimento,2028-05-03,BBB-,Fitch,10000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
 LC,,1446 dias,10000.0,113.0% CDI,SANTINVEST,No vencimento,False,False,113.0,Vencimento,2027-05-10,BBB-,Fitch,10000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
 LC,,1085 dias,10000.0,113.0% CDI,SANTINVEST,No vencimento,False,False,113.0,Vencimento,2026-05-14,BBB-,Fitch,10000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
+CDB,,721 dias,1000.0,113.0% CDI,BANCO BMG,No vencimento,False,False,113.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,721 dias,10000.0,113.0% CDI,BANCO BS2,No vencimento,False,False,113.0,,,BBB,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1825 dias,1000.0,113.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,113.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1081 dias,5000.0,113.0% CDI,C6 BANK,No vencimento,False,False,113.0,,,A-,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1080 dias,1000.0,113.0% CDI,BANCO DIGIMAIS,No vencimento,False,False,113.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 DEB,,1671 dias,1071.25,CDI + 1.65%,HOSPITAL ANCHIETA S.A,No vencimento,False,True,1.65,Vencimento,15/09/2027,,,1071.25,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 DEB,,1671 dias,1071.25,CDI + 1.65%,HOSPITAL ANCHIETA S.A,No vencimento,False,True,1.65,Vencimento,15/09/2027,,,1071.25,Necton,0.0,Necton,False,Corretora,False,,,S
 CRA,,1791 dias,1005.743333,CDI + 1.65%,J.MACEDO ,No Vencimento,True,True,1.65,,No vencimento,,,1005.743333,Rico,0.0,Rico,False,Corretora,False,,,S
@@ -385,8 +385,8 @@ CDB,,1825 dias,1000.0,112.5% CDI,Caruana Financeira,No Vencimento,False,False,11
 CDB,,733 dias,1000.0,112.5% CDI,Banco Mercantil do Brasil,No Vencimento,False,False,112.5,,D+0,A-,FITCH,1000.0,Ágora,,Ágora,,,,,,P
 CDB,,1095 dias,1000.0,112.5% CDI,MERCANTIL DO BRASIL ,No Vencimento,False,False,112.5,,No vencimento,Fitch,Fitch,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 CDB,,1095 dias,1000.0,112.5% CDI,MERCANTIL DO BRASIL ,No Vencimento,False,False,112.5,,Sem carência,A-,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
-CDB,,721 dias,1000.0,112.5% CDI,BANCO TOPAZIO,No vencimento,False,False,112.5,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,112.5% CDI,BANCO TOPAZIO,No vencimento,False,False,112.5,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,721 dias,1000.0,112.5% CDI,BANCO TOPAZIO,No vencimento,False,False,112.5,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LFSN,,1949 dias,391648.51377815,CDI + 1.6%,BANCO VOTORANTIM S.A. ,No Vencimento,False,False,1.6,,No vencimento,,,391648.51377815,Rico,0.0,Rico,False,Corretora,False,,,S
 CRI,,1520 dias,1010.2384624,CDI + 1.6%,PATRIMAR ,No Vencimento,True,True,1.6,,No vencimento,,,1010.2384624,Rico,0.0,Rico,False,Corretora,False,,,S
 CRI,,1435 dias,1007.193575,CDI + 1.6%,HAVAN ,No Vencimento,True,True,1.6,,No vencimento,Fitch,Fitch,1007.193575,Rico,0.0,Rico,False,Corretora,False,,,S
@@ -440,16 +440,16 @@ CDB,,721 dias,10000.0,112.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False
 CDB,,1080 dias,5000.0,112.0% CDI,BANCO SEMEAR,No vencimento,False,False,112.0,Vencimento,0,BBB,Austin,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,1080 dias,5000.0,112.0% CDI,BDMG S.A,No vencimento,False,False,112.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
 LC,,1800 dias,5000.0,112.0% CDI,AGORACRED,No vencimento,False,False,112.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,721 dias,1000.0,112.0% CDI,BANCO ARBI,No vencimento,False,False,112.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1461 dias,10000.0,112.0% CDI,BANCO DESENV. MG,No vencimento,False,False,112.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1643 dias,10000.0,112.0% CDI,BANCO DESENV. MG,No vencimento,False,False,112.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1826 dias,10000.0,112.0% CDI,BANCO DESENV. MG,No vencimento,False,False,112.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,721 dias,10000.0,112.0% CDI,PARANA BANCO,No vencimento,False,False,112.0,,,AA+,S&P,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1080 dias,500.0,112.0% CDI,BANCO PINE,Diária,False,False,112.0,Vencimento,1080 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,365 dias,1000.0,112.0% CDI,ZEMA FINANCEIRA,No vencimento,False,False,112.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,2167 dias,1000.0,112.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False,112.0,Vencimento,2029-04-30,BB+,Fitch,1000.0,Órama,15.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,112.0% CDI,BANCO OMNI,No vencimento,False,False,112.0,Vencimento,2025-05-19,A,S&P,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,112.0% CDI,BANCO ARBI,No vencimento,False,False,112.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,721 dias,1000.0,112.0% CDI,BANCO ARBI,No vencimento,False,False,112.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1461 dias,10000.0,112.0% CDI,BANCO DESENV. MG,No vencimento,False,False,112.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1643 dias,10000.0,112.0% CDI,BANCO DESENV. MG,No vencimento,False,False,112.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1826 dias,10000.0,112.0% CDI,BANCO DESENV. MG,No vencimento,False,False,112.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,721 dias,10000.0,112.0% CDI,PARANA BANCO,No vencimento,False,False,112.0,,,AA+,S&P,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,730 dias,1000.0,111.95% CDI,Banco Agibank,No Vencimento,False,False,111.95,,D+0,BBB+,FITCH,1000.0,Ágora,,Ágora,,,,,,P
 CDB,,730 dias,1000.0,111.75% CDI,AGIBANK ,No Vencimento,False,False,111.75,,No vencimento,Fitch,Fitch,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 CDB,,730 dias,1000.0,111.75% CDI,AGIBANK ,No Vencimento,False,False,111.75,Vencimento,Sem carência,BBB+,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
@@ -535,6 +535,10 @@ CDB,,1440 dias,10000.0,111.0% CDI,BANCO RODOBENS,No vencimento,False,False,111.0
 CDB,,1800 dias,10000.0,111.0% CDI,BANCO RODOBENS,No vencimento,False,False,111.0,Vencimento,0,AA+,Fitch,10000.0,Banco Daycoval,24.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,721 dias,5000.0,111.0% CDI,BDMG S.A,No vencimento,False,False,111.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
 LC,,1440 dias,5000.0,111.0% CDI,AGORACRED,No vencimento,False,False,111.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,1095 dias,50.0,111.0% CDI,BANCO BARI,No vencimento,False,False,111.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+CDB,,725 dias,1000.0,111.0% CDI,BANCO RNX,No vencimento,False,False,111.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,725 dias,1000.0,111.0% CDI,CALCRED,No vencimento,False,False,111.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,1085 dias,1000.0,111.0% CDI,BANCO RNX,No vencimento,False,False,111.0,Vencimento,2026-05-14,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,913 dias,10000.0,111.0% CDI,BANCO DESENV. MG,No vencimento,False,False,111.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1096 dias,10000.0,111.0% CDI,BANCO DESENV. MG,No vencimento,False,False,111.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1278 dias,10000.0,111.0% CDI,BANCO DESENV. MG,No vencimento,False,False,111.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -545,10 +549,6 @@ CDB,,1440 dias,1000.0,111.0% CDI,BANCO MODAL,No vencimento,False,False,111.0,,,A
 CDB,,1085 dias,5000.0,111.0% CDI,BANCO SEMEAR,No vencimento,False,False,111.0,,,BBB,Austin,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1800 dias,5000.0,111.0% CDI,BANCO SEMEAR,No vencimento,False,False,111.0,,,BBB,Austin,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1825 dias,1000.0,111.0% CDI,TRIBANCO,No vencimento,False,False,111.0,,,A,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1095 dias,50.0,111.0% CDI,BANCO BARI,No vencimento,False,False,111.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
-CDB,,725 dias,1000.0,111.0% CDI,BANCO RNX,No vencimento,False,False,111.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,725 dias,1000.0,111.0% CDI,CALCRED,No vencimento,False,False,111.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,1085 dias,1000.0,111.0% CDI,BANCO RNX,No vencimento,False,False,111.0,Vencimento,2026-05-14,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CRI,,2460 dias,1019.685115,CDI + 1.4%,GRUPO PÃO DE AÇÚCAR ,No Vencimento,True,True,1.4,,No vencimento,Fitch,Fitch,1019.685115,Rico,0.0,Rico,False,Corretora,False,,,S
 CRI,,1667 dias,1031.5592001,CDI + 1.4%,HAPVIDA ,No Vencimento,True,True,1.4,,No vencimento,Fitch,Fitch,1031.5592001,Rico,0.0,Rico,False,Corretora,False,,,S
 CDB,,1095 dias,1000.0,CDI + 1.4%,BANCO PAN S/A ,No Vencimento,False,False,1.4,,No vencimento,S&P,S&P,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
@@ -648,6 +648,9 @@ CDB,,721 dias,5000.0,110.0% CDI,BANCO OMNI,No vencimento,False,False,110.0,Venci
 CDB,,361 dias,5000.0,110.0% CDI,SF3,No vencimento,False,False,110.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
 LC,,1080 dias,5000.0,110.0% CDI,AGORACRED,No vencimento,False,False,110.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
 LF,,1800 dias,50000.0,110.0% CDI,BANCO PAN,No vencimento,False,False,110.0,Vencimento,0,AAA,S&P,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,852 dias,50.0,110.0% CDI,BANCO BARI,No vencimento,False,False,110.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+CDB,,186 dias,1000.0,110.0% CDI,BANCO MASTER,No vencimento,False,False,110.0,Vencimento,2023-11-27,BBB-,Fitch,1000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
+CDB,,365 dias,1000.0,110.0% CDI,REALIZE CRÉDITO,No vencimento,False,False,110.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,1460 dias,5000.0,110.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,110.0,,,A+,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1825 dias,5000.0,110.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,110.0,,,A+,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,547 dias,10000.0,110.0% CDI,BANCO DESENV. MG,No vencimento,False,False,110.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -659,9 +662,6 @@ CDB,,361 dias,10000.0,110.0% CDI,PARANA BANCO,No vencimento,False,False,110.0,,,
 CDB,,1450 dias,5000.0,110.0% CDI,BANCO SEMEAR,No vencimento,False,False,110.0,,,BBB,Austin,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1095 dias,1000.0,110.0% CDI,TRIBANCO,No vencimento,False,False,110.0,,,A,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1460 dias,1000.0,110.0% CDI,TRIBANCO,No vencimento,False,False,110.0,,,A,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,852 dias,50.0,110.0% CDI,BANCO BARI,No vencimento,False,False,110.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
-CDB,,186 dias,1000.0,110.0% CDI,BANCO MASTER,No vencimento,False,False,110.0,Vencimento,2023-11-27,BBB-,Fitch,1000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
-CDB,,365 dias,1000.0,110.0% CDI,REALIZE CRÉDITO,No vencimento,False,False,110.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,730 dias,1000.0,109.75% CDI,"REALIZE CREDITO, FINANCIA ",No Vencimento,False,False,109.75,,No vencimento,,,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 CDB,,730 dias,1000.0,109.75% CDI,"REALIZE CREDITO, FINANCIA ",No Vencimento,False,False,109.75,Vencimento,Sem carência,,,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,1825 dias,5000.0,109.75% CDI,BANCO BV,No vencimento,False,False,109.75,,,AA,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -733,6 +733,9 @@ CDB,,1440 dias,5000.0,109.0% CDI,BANCO MODAL,No vencimento,False,False,109.0,Ven
 CDB,,721 dias,5000.0,109.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,109.0,Vencimento,0,BBB,S&P,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 LF,,1080 dias,50000.0,109.0% CDI,BANCO PAN,No vencimento,False,False,109.0,Vencimento,0,AAA,S&P,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
 LF,,1440 dias,50000.0,109.0% CDI,BANCO PAN,No vencimento,False,False,109.0,Vencimento,0,AAA,S&P,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,545 dias,5000.0,109.0% CDI,BANCO GUANABARA,No vencimento,False,False,109.0,Vencimento,2024-11-20,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,545 dias,1000.0,109.0% CDI,BANCO BMG,No vencimento,False,False,109.0,Vencimento,2024-11-20,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
+CDB,,907 dias,1000.0,109.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,109.0,Vencimento,2025-11-17,BBB,S&P,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
 CDB,,730 dias,5000.0,109.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,109.0,,,A+,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1095 dias,5000.0,109.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,109.0,,,A+,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,365 dias,10000.0,109.0% CDI,BANCO DESENV. MG,No vencimento,False,False,109.0,,,BBB+.br,Moodys,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -740,9 +743,6 @@ CDB,,540 dias,1000.0,109.0% CDI,BANCO BMG,No vencimento,False,False,109.0,,,B+,F
 CDB,,913 dias,1000.0,109.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,109.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,721 dias,1000.0,109.0% CDI,BANCO RNX,No vencimento,False,False,109.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1081 dias,1000.0,109.0% CDI,BANCO RNX,No vencimento,False,False,109.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,545 dias,5000.0,109.0% CDI,BANCO GUANABARA,No vencimento,False,False,109.0,Vencimento,2024-11-20,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,545 dias,1000.0,109.0% CDI,BANCO BMG,No vencimento,False,False,109.0,Vencimento,2024-11-20,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
-CDB,,907 dias,1000.0,109.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,109.0,Vencimento,2025-11-17,BBB,S&P,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
 CDB,,1080 dias,1000.0,108.96% CDI,BANCO NBC,No vencimento,False,False,108.96,Vencimento,20/03/2026,AAA,Fitch,1000.0,Guide,25.0,Guide,False,Corretora,,,,P
 CDB,,1461 dias,5000.0,108.98% CDI,BANCO BV,No vencimento,False,False,108.98,Vencimento,1461 dias dias,AA,Moodys,5000.0,Nova Futura,23.0,Nova Futura,False,Corretora,False,,,P
 CDB,,730 dias,1.0,CDI + 1.15%,BMG ,No Vencimento,False,False,1.15,,No vencimento,Fitch,Fitch,1.0,Rico,0.0,Rico,False,Corretora,False,,,S
@@ -793,9 +793,9 @@ LF,,1825 dias,50000.0,108.5% CDI,BANCO XP S.A. ,No Vencimento,False,False,108.5,
 LF,,1460 dias,50000.0,108.5% CDI,BANCO XP S.A. ,No Vencimento,False,False,108.5,,Sem carência,brAAA,S&P,50000.0,XP,0.0,XP,False,Corretora,False,,,P
 LF,,1095 dias,50000.0,108.5% CDI,BANCO XP S.A. ,No Vencimento,False,False,108.5,Vencimento,Sem carência,brAAA,S&P,50000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,1090 dias,5000.0,108.5% CDI,BCO VOLKSWAGEN S/A,No vencimento,False,False,108.5,Vencimento,1090 dias,,,5000.0,Itaú Corretora,0.0,Itaú Corretora,False,Corretora,False,,,P
+CDB,,365 dias,1000.0,108.5% CDI,BANCO TOPAZIO,No vencimento,False,False,108.5,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,1081 dias,10000.0,108.5% CDI,BANCO FIBRA,No vencimento,False,False,108.5,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,108.5% CDI,BANCO TOPAZIO,No vencimento,False,False,108.5,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,365 dias,1000.0,108.5% CDI,BANCO TOPAZIO,No vencimento,False,False,108.5,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,551 dias,10000.0,CDI + 1.08%,Banco BDMG,No Vencimento,False,False,1.08,,D+0,BBB+,FITCH,10000.0,Ágora,,Ágora,,,,,,P
 CRI,,941 dias,995.82,IPCA +8.59%,BAIT,No vencimento,True,True,8.59,Vencimento,15/09/2025,,,995.82,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 CRI,,941 dias,995.82,IPCA +8.59%,BAIT,No vencimento,True,True,8.59,Vencimento,15/09/2025,,,995.82,Necton,0.0,Necton,False,Corretora,False,,,S
@@ -883,6 +883,10 @@ CDB,,720 dias,1000.0,108.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,108.0,V
 CDB,,1800 dias,1000.0,108.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,108.0,Vencimento,0,AA,Fitch,1000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
 LF,,721 dias,50000.0,108.0% CDI,BANCO PAN,No vencimento,False,False,108.0,Vencimento,0,AAA,S&P,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,361 dias,50.0,108.0% CDI,BANCO RCI,No vencimento,False,False,108.0,Vencimento,No vencimento,AA+,Moodys,50.0,Banco RCI,24.0,Banco RCI,False,Banco,True,,https://bancorci.onelink.me/J1lr/7e8e03f6,P
+CDB,,365 dias,5000.0,108.0% CDI,BANCO GUANABARA,No vencimento,False,False,108.0,Vencimento,2024-05-24,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,365 dias,1000.0,108.0% CDI,BANCO BS2,No vencimento,False,False,108.0,Vencimento,2024-05-24,BBB,Fitch,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
+CDB,,1625 dias,10000.0,108.0% CDI,BANCO FIBRA,No vencimento,False,False,108.0,Vencimento,2027-11-05,,,10000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,1265 dias,10000.0,108.0% CDI,BANCO FIBRA,No vencimento,False,False,108.0,Vencimento,2026-11-10,BBB+,Fitch,10000.0,Órama,18.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,5000.0,108.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,108.0,,,A+,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,730 dias,1000.0,108.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,108.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1261 dias,10000.0,108.0% CDI,BANCO FIBRA,No vencimento,False,False,108.0,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -892,10 +896,6 @@ CDB,,1801 dias,10000.0,108.0% CDI,BANCO FIBRA,No vencimento,False,False,108.0,,,
 CDB,,540 dias,1000.0,108.0% CDI,BANCO MODAL,No vencimento,False,False,108.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,730 dias,1000.0,108.0% CDI,TRIBANCO,No vencimento,False,False,108.0,,,A,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LC,,1800 dias,10000.0,108.0% CDI,AGORACRED,No vencimento,False,False,108.0,,,,,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,365 dias,5000.0,108.0% CDI,BANCO GUANABARA,No vencimento,False,False,108.0,Vencimento,2024-05-24,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,365 dias,1000.0,108.0% CDI,BANCO BS2,No vencimento,False,False,108.0,Vencimento,2024-05-24,BBB,Fitch,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
-CDB,,1625 dias,10000.0,108.0% CDI,BANCO FIBRA,No vencimento,False,False,108.0,Vencimento,2027-11-05,,,10000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,1265 dias,10000.0,108.0% CDI,BANCO FIBRA,No vencimento,False,False,108.0,Vencimento,2026-11-10,BBB+,Fitch,10000.0,Órama,18.0,Orama,True,Distribuidora,True,,,P
 CDB,,532 dias,1.25114999,14.8%,BANCO VOITER S.A. ,No Vencimento,False,False,14.8,,No vencimento,,,1.25114999,Rico,0.0,Rico,False,Corretora,False,,,S
 CDB,,860 dias,0.00722679,14.8%,PAULISTA ,No Vencimento,False,False,14.8,,No vencimento,,,0.00722679,Rico,0.0,Rico,False,Corretora,False,,,S
 CDB,,860 dias,0.00722679,14.8%,PAULISTA ,No Vencimento,False,False,14.8,,Sem carência,,,0.00722679,XP,0.0,XP,False,Corretora,False,,,S
@@ -1029,13 +1029,6 @@ CDB,,361 dias,5000.0,107.0% CDI,BANCO RNX,No vencimento,False,False,107.0,Vencim
 CDB,,361 dias,10000.0,107.0% CDI,BANCO RODOBENS,No vencimento,False,False,107.0,Vencimento,0,AA+,Fitch,10000.0,Banco Daycoval,24.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,721 dias,5000.0,107.0% CDI,BANCO SEMEAR,No vencimento,False,False,107.0,Vencimento,0,BBB,Austin,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,1080 dias,10000.0,107.0% CDI,BANCO BR PARTNERS,No vencimento,False,False,107.0,Vencimento,0,A-,Fitch,10000.0,Banco Daycoval,19.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,361 dias,1000.0,107.0% CDI,BANCO ARBI,No vencimento,False,False,107.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,361 dias,1000.0,107.0% CDI,BANCO BMG,No vencimento,False,False,107.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,547 dias,1000.0,107.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,107.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,901 dias,10000.0,107.0% CDI,BANCO FIBRA,No vencimento,False,False,107.0,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,365 dias,1000.0,107.0% CDI,FOCUS FINANCEIRA,No vencimento,False,False,107.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,730 dias,10000.0,107.0% CDI,BANCO HAITONG,No vencimento,False,False,107.0,,,AAA,S&P,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,365 dias,1000.0,107.0% CDI,BANCO MODAL,No vencimento,False,False,107.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,362 dias,100.0,107.0% CDI,BANCO ORIGINAL,No vencimento,False,False,107.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 CDB,,365 dias,1000.0,107.0% CDI,BANCO RNX,No vencimento,False,False,107.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,107.0% CDI,BANCO BMG,No vencimento,False,False,107.0,Vencimento,2024-05-24,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
@@ -1044,6 +1037,13 @@ CDB,,545 dias,1000.0,107.0% CDI,BANCO ORIGINAL,No vencimento,False,False,107.0,V
 CDB,,545 dias,10000.0,107.0% CDI,BANCO MODAL,No vencimento,False,False,107.0,Vencimento,2024-11-20,,,10000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,107.0% CDI,BANCO RANDON,No vencimento,False,False,107.0,Vencimento,2025-05-19,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,907 dias,10000.0,107.0% CDI,BANCO FIBRA,No vencimento,False,False,107.0,Vencimento,2025-11-17,BBB+,Fitch,10000.0,Órama,18.0,Orama,True,Distribuidora,True,,,P
+CDB,,361 dias,1000.0,107.0% CDI,BANCO ARBI,No vencimento,False,False,107.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,361 dias,1000.0,107.0% CDI,BANCO BMG,No vencimento,False,False,107.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,547 dias,1000.0,107.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,107.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,901 dias,10000.0,107.0% CDI,BANCO FIBRA,No vencimento,False,False,107.0,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,365 dias,1000.0,107.0% CDI,FOCUS FINANCEIRA,No vencimento,False,False,107.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,730 dias,10000.0,107.0% CDI,BANCO HAITONG,No vencimento,False,False,107.0,,,AAA,S&P,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,365 dias,1000.0,107.0% CDI,BANCO MODAL,No vencimento,False,False,107.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1827 dias,10000.0,CDI + 0.88%,Banco BDMG,No Vencimento,False,False,0.88,,D+0,BBB+,FITCH,10000.0,Ágora,,Ágora,,,,,,P
 CDB,,1081 dias,10000.0,106.88% CDI,BANCO GM,No vencimento,False,False,106.88,,,AAA,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 DEB,,3132 dias,1025.19,IPCA +8.38%,COMPANHIA DE LOCACAO DAS AMERICAS,No vencimento,False,False,8.38,Vencimento,15/09/2031,,,1025.19,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
@@ -1145,11 +1145,11 @@ CDB,,361 dias,5000.0,106.0% CDI,BANCO PAN,No vencimento,False,False,106.0,Vencim
 CDB,,361 dias,5000.0,106.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,106.0,Vencimento,0,BBB,S&P,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,360 dias,1000.0,106.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,106.0,Vencimento,0,AA,Fitch,1000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,181 dias,5000.0,106.0% CDI,SF3,No vencimento,False,False,106.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,365 dias,1000.0,106.0% CDI,BANCO RANDON,No vencimento,False,False,106.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,365 dias,10000.0,106.0% CDI,BANCO GM,No vencimento,False,False,106.0,Vencimento,2024-05-24,AAA,Fitch,10000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,5000.0,106.0% CDI,C6 BANK,No vencimento,False,False,106.0,,,A-,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,721 dias,10000.0,106.0% CDI,BANCO FIBRA,No vencimento,False,False,106.0,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,181 dias,1000.0,106.0% CDI,BANCO MODAL,No vencimento,False,False,106.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,365 dias,1000.0,106.0% CDI,BANCO RANDON,No vencimento,False,False,106.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,365 dias,10000.0,106.0% CDI,BANCO GM,No vencimento,False,False,106.0,Vencimento,2024-05-24,AAA,Fitch,10000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CRA,,1518 dias,1043.23,IPCA +8.27%,ST MARCHE,No vencimento,True,True,8.27,Vencimento,15/04/2027,,,1043.23,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 CRA,,1518 dias,1043.23,IPCA +8.27%,ST MARCHE,No vencimento,True,True,8.27,Vencimento,15/04/2027,,,1043.23,Necton,0.0,Necton,False,Corretora,False,,,S
 CDB,,1097 dias,10000.0,CDI + 0.75%,Banco BDMG,No Vencimento,False,False,0.75,,D+0,BBB+,FITCH,10000.0,Ágora,,Ágora,,,,,,P
@@ -1320,6 +1320,9 @@ CDB,,366 dias,1000.0,105.0% CDI,BANCO BTG PACTUAL,No vencimento,False,False,105.
 CDB,,721 dias,10000.0,105.0% CDI,BANCO ABC BRASIL,No vencimento,False,False,105.0,Vencimento,0,AAA,Fitch,10000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,361 dias,5000.0,105.0% CDI,BANCO MODAL,No vencimento,False,False,105.0,Vencimento,0,A-,Moodys,5000.0,Banco Daycoval,19.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,361 dias,5000.0,105.0% CDI,BANCO OMNI,No vencimento,False,False,105.0,Vencimento,0,A,S&P,5000.0,Banco Daycoval,20.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,427 dias,50.0,105.0% CDI,BANCO BARI,No vencimento,False,False,105.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+CDB,,181 dias,100.0,105.0% CDI,BANCO ORIGINAL,No vencimento,False,False,105.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
+CDB,,545 dias,20000.0,105.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,105.0,Vencimento,2024-11-20,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,105.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,105.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,365 dias,20000.0,105.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,105.0,,,AA,Fitch,20000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,721 dias,20000.0,105.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,105.0,,,AA,Fitch,20000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -1334,9 +1337,6 @@ CDB,,1826 dias,5000.0,105.0% CDI,BANCO PAN,No vencimento,False,False,105.0,,,AAA
 CDB,,730 dias,10000.0,105.0% CDI,BANCO RENDIMENTO,No vencimento,False,False,105.0,,,A,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,105.0% CDI,BANCO RNX,No vencimento,False,False,105.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LC,,361 dias,10000.0,105.0% CDI,AGORACRED,No vencimento,False,False,105.0,,,,,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,181 dias,100.0,105.0% CDI,BANCO ORIGINAL,No vencimento,False,False,105.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
-CDB,,427 dias,50.0,105.0% CDI,BANCO BARI,No vencimento,False,False,105.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
-CDB,,545 dias,20000.0,105.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,105.0,Vencimento,2024-11-20,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
 CDB,,900 dias,1000.0,14.36%,WILLBANK,No vencimento,False,False,14.36,Vencimento,900 dias,,,1000.0,Avista Financeira,0.0,Avista Financeira,False,Financeira,True,,,P
 RDB,,721 dias,1000.0,14.36%,WILLBANK,No vencimento,False,False,14.36,Vencimento,721 dias,,,1000.0,Avista Financeira,0.0,Avista Financeira,False,Financeira,True,,,P
 CDB,,181 dias,1000.0,104.75% CDI,BANCO BTG PACTUAL,No vencimento,False,False,104.75,Vencimento,17/08/2023,AAA,S&P,1000.0,EQI Investimentos,25.0,EQI Investimentos,False,Corretora,False,,,P
@@ -1496,13 +1496,13 @@ CDB,,181 dias,5000.0,104.0% CDI,BANCO MODAL,No vencimento,False,False,104.0,Venc
 CDB,,361 dias,10000.0,104.0% CDI,BANCO ORIGINAL,No vencimento,False,False,104.0,Vencimento,0,BB+,Fitch,10000.0,Banco Daycoval,15.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,180 dias,1000.0,104.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,104.0,Vencimento,0,AA,Fitch,1000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
 LC,,721 dias,5000.0,104.0% CDI,AGORACRED,No vencimento,False,False,104.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,90 dias,1000.0,104.0% CDI,BANCO MODAL,No vencimento,False,False,104.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1080 dias,5000.0,104.0% CDI,BANCO PAN,No vencimento,False,False,104.0,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,181 dias,10000.0,104.0% CDI,PARANA BANCO,No vencimento,False,False,104.0,,,AA+,S&P,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,186 dias,1000.0,104.0% CDI,BANCO RANDON,No vencimento,False,False,104.0,Vencimento,2023-11-27,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,186 dias,2000.0,104.0% CDI,MERCADO LIVRE,No vencimento,False,False,104.0,Vencimento,2023-11-27,AAA,Fitch,2000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CDB,,186 dias,1000.0,104.0% CDI,BANCO BS2,No vencimento,False,False,104.0,Vencimento,2023-11-27,BBB,Fitch,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,104.0% CDI,BANCO ORIGINAL,No vencimento,False,False,104.0,Vencimento,2024-05-24,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,90 dias,1000.0,104.0% CDI,BANCO MODAL,No vencimento,False,False,104.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,1080 dias,5000.0,104.0% CDI,BANCO PAN,No vencimento,False,False,104.0,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,181 dias,10000.0,104.0% CDI,PARANA BANCO,No vencimento,False,False,104.0,,,AA+,S&P,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CRI,,1487 dias,1076.78,CDI + 0.5%,LOG COMMERCIAL PROPERTIES E PARTICIPACOES S/A,No vencimento,True,True,0.5,Vencimento,15/03/2027,,,1076.78,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 CRI,,1487 dias,1076.78,CDI + 0.5%,LOG COMMERCIAL PROPERTIES E PARTICIPACOES S/A,No vencimento,True,True,0.5,Vencimento,15/03/2027,,,1076.78,Necton,0.0,Necton,False,Corretora,False,,,S
 DEB,,4228 dias,1046.88,IPCA +7.98%,BRK AMBIENTAL PARTICIPACOES S.A.,No vencimento,True,True,7.98,Vencimento,15/09/2034,,,1046.88,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
@@ -1547,9 +1547,9 @@ CDB,,540 dias,1000.0,103.5% CDI,BANCO BBC - GRUPO SIMPAR ,No Vencimento,False,Fa
 CDB,,181 dias,250000.0,103.5% CDI,BANCO INTER,D+180,False,False,103.5,Vencimento,181 dias,A-,Fitch,250000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
 DEB,,2122 dias,985.5,IPCA +9.57%,AMERICA NET,SECUNDARIO,True,False,9.57,Vencimento,Vencimento,A,S&P,985.5,Ativa Investimentos,0.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
 CDB,,30 dias,1000.0,103.5% CDI,BANCO BTG PACTUAL,No vencimento,False,False,103.5,Vencimento,23/06/2023,AAA,S&P,1000.0,BTG Pactual digital,25.0,BTG Pactual digital,False,Banco,False,,,P
-CDB,,721 dias,5000.0,103.5% CDI,BANCO PAN,No vencimento,False,False,103.5,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,95 dias,2000.0,103.5% CDI,MERCADO LIVRE,No vencimento,False,False,103.5,Vencimento,2023-08-28,AAA,Fitch,2000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,10000.0,103.5% CDI,BANCO RENDIMENTO,No vencimento,False,False,103.5,Vencimento,2024-05-24,,,10000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,721 dias,5000.0,103.5% CDI,BANCO PAN,No vencimento,False,False,103.5,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1093 dias,1000.0,14.15%,BANCO VOITER,No vencimento,False,False,14.15,Vencimento,02/04/2026,,,1000.0,Guide,0.0,Guide,False,Corretora,,,,P
 CDB,,366 dias,5000.0,103.45% CDI,BANCO BV,No vencimento,False,False,103.45,Vencimento,366 dias dias,AA,Moodys,5000.0,Nova Futura,23.0,Nova Futura,False,Corretora,False,,,P
 CDB,,366 dias,1000.0,103.45% CDI,Banco BV,No Vencimento,False,False,103.45,,D+0,AAA,S&P,1000.0,Ágora,,Ágora,,,,,,P
@@ -1663,13 +1663,13 @@ CDB,,181 dias,10000.0,103.0% CDI,BANCO RODOBENS,No vencimento,False,False,103.0,
 CDB,,181 dias,5000.0,103.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,103.0,Vencimento,0,BBB,S&P,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
 LC,,361 dias,5000.0,103.0% CDI,AGORACRED,No vencimento,False,False,103.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,721 dias,50.0,103.0% CDI,BANCO RCI,Diária,False,False,103.0,Vencimento,Diária,AA+,Moodys,50.0,Banco RCI,24.0,Banco RCI,False,Banco,True,,https://bancorci.onelink.me/J1lr/8067764c,P
+CDB,,186 dias,1000.0,103.0% CDI,BANCO RNX,No vencimento,False,False,103.0,Vencimento,2023-11-27,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,186 dias,10000.0,103.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,103.0,Vencimento,2023-11-27,,,10000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,186 dias,1000.0,103.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False,103.0,Vencimento,2023-11-27,BB+,Fitch,1000.0,Órama,15.0,Orama,True,Distribuidora,True,,,P
 CDB,,181 dias,5000.0,103.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,103.0,,,A+,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,181 dias,20000.0,103.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,103.0,,,AA,Fitch,20000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,361 dias,5000.0,103.0% CDI,BANCO PAN,No vencimento,False,False,103.0,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,365 dias,10000.0,103.0% CDI,BANCO RENDIMENTO,No vencimento,False,False,103.0,,,A,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,186 dias,1000.0,103.0% CDI,BANCO RNX,No vencimento,False,False,103.0,Vencimento,2023-11-27,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,186 dias,10000.0,103.0% CDI,BANCO INDUSTRIAL DO BRASIL,No vencimento,False,False,103.0,Vencimento,2023-11-27,,,10000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,186 dias,1000.0,103.0% CDI,BANCO LUSO BRASILEIRO,No vencimento,False,False,103.0,Vencimento,2023-11-27,BB+,Fitch,1000.0,Órama,15.0,Orama,True,Distribuidora,True,,,P
 CDB,,21 dias,1925.155521,IPCA +9.5%,BANCO FATOR,No vencimento,False,False,9.5,Vencimento,2023-06-15,,,1925.155521,Órama,16.0,Orama,True,Distribuidora,True,,,S
 CDB,,90 dias,1000.0,102.75% CDI,BANCO PAN,No vencimento,False,False,102.75,Vencimento,04/07/2023,AAA,S&P,1000.0,Guide,25.0,Guide,False,Corretora,,,,P
 CDB,,551 dias,5000.0,102.75% CDI,BANCO BTG PACTUAL,No vencimento,False,False,102.75,Vencimento,551 dias dias,AAA,S&P,5000.0,Nova Futura,25.0,Nova Futura,False,Corretora,False,,,P
@@ -1810,17 +1810,17 @@ CDB,,721 dias,1000000.0,102.0% CDI,BANCO INTER,Diária,False,False,102.0,Vencime
 CDB,,181 dias,5000.0,102.0% CDI,C6 BANK,No vencimento,False,False,102.0,Vencimento,0,A-,S&P,5000.0,Banco Daycoval,19.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,361 dias,10000.0,102.0% CDI,BANCO FIBRA,No vencimento,False,False,102.0,Vencimento,0,B+,Fitch,10000.0,Banco Daycoval,12.0,Banco Daycoval,False,Corretora,False,,,P
 CDB,,361 dias,5000.0,102.0% CDI,BANCO SEMEAR,No vencimento,False,False,102.0,Vencimento,0,BBB,Austin,5000.0,Banco Daycoval,17.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,181 dias,1000.0,102.0% CDI,BANCO BMG,No vencimento,False,False,102.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,181 dias,1000.0,102.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,102.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,181 dias,5000.0,102.0% CDI,C6 BANK,No vencimento,False,False,102.0,,,A-,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1461 dias,100.0,102.0% CDI,BANCO ORIGINAL,Diária,False,False,102.0,Vencimento,D+1,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 LCI,,1095 dias,50.0,102.0% CDI,BANCO BARI,No vencimento,False,False,102.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+CDB,,1461 dias,100.0,102.0% CDI,BANCO ORIGINAL,Diária,False,False,102.0,Vencimento,D+1,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 CDB,,95 dias,10000.0,102.0% CDI,BANCO GM,No vencimento,False,False,102.0,Vencimento,2023-08-28,AAA,Fitch,10000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CDB,,125 dias,1000.0,102.0% CDI,BANCO BS2,No vencimento,False,False,102.0,Vencimento,2023-09-27,BBB,Fitch,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
 CDB,,125 dias,1000.0,102.0% CDI,BANCO MASTER,No vencimento,False,False,102.0,Vencimento,2023-09-27,BBB-,Fitch,1000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
 CDB,,186 dias,1000.0,102.0% CDI,BANCO BMG,No vencimento,False,False,102.0,Vencimento,2023-11-27,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,5000.0,102.0% CDI,BANCO GUANABARA,Diária,False,False,102.0,Vencimento,2025-05-19,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,907 dias,20000.0,102.0% CDI,BANCO DA CHINA BRASIL,No vencimento,False,False,102.0,Vencimento,2025-11-17,AAA,S&P,20000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
+CDB,,181 dias,1000.0,102.0% CDI,BANCO BMG,No vencimento,False,False,102.0,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,181 dias,1000.0,102.0% CDI,CARUANA FINANCEIRA,No vencimento,False,False,102.0,,,BBB,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,181 dias,5000.0,102.0% CDI,C6 BANK,No vencimento,False,False,102.0,,,A-,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CRA,,2279 dias,1029.14,IPCA +7.71%,FS BIO,No vencimento,True,True,7.71,Vencimento,15/05/2029,,,1029.14,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 CRA,,2279 dias,1029.14,IPCA +7.71%,FS BIO,No vencimento,True,True,7.71,Vencimento,15/05/2029,,,1029.14,Necton,0.0,Necton,False,Corretora,False,,,S
 CDB,,30 dias,20000.0,13.93%,BANCO DAYCOVAL,No vencimento,False,False,13.93,Vencimento,30,AA,Fitch,20000.0,Terra Investimentos,23.0,Terra Investimentos,False,Distribuidora,,,,P
@@ -1986,6 +1986,13 @@ CDB,,730 dias,1000.0,101.0% CDI,BTG PACTUAL ,No Vencimento,False,False,101.0,Ven
 LF,,1095 dias,50000.0,101.0% CDI,INTERMEDIUM ,No Vencimento,False,False,101.0,,Sem carência,,,50000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,721 dias,500000.0,101.0% CDI,BANCO INTER,Diária,False,False,101.0,Vencimento,721 dias,A-,Fitch,500000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
 CDB,,361 dias,5000.0,101.0% CDI,BANCO DIGIMAIS,No vencimento,False,False,101.0,Vencimento,0,BBB-,Fitch,5000.0,Banco Daycoval,16.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,730 dias,50.0,101.0% CDI,BANCO BARI,Diária,False,False,101.0,Vencimento,Diária,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+CDB,,730 dias,50.0,101.0% CDI,BANCO BARI,Diária após 186 dias,False,False,101.0,Vencimento,Diária após 186 dias,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+CDB,,90 dias,100.0,101.0% CDI,BANCO ORIGINAL,No vencimento,False,False,101.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
+CDB,,95 dias,1000.0,101.0% CDI,BANCO RNX,No vencimento,False,False,101.0,Vencimento,2023-08-28,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,67 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,Vencimento,2023-07-31,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
+CDB,,125 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,Vencimento,2023-09-27,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
+CDB,,35 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,Vencimento,2023-06-29,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
 CDB,,90 dias,5000.0,101.0% CDI,C6 BANK,No vencimento,False,False,101.0,,,A-,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,90 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,,,AA,Fitch,20000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,120 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,,,AA,Fitch,20000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -1994,13 +2001,6 @@ CDB,,361 dias,1000.0,101.0% CDI,BANCO DIGIMAIS,No vencimento,False,False,101.0,,
 CDB,,60 dias,1000.0,101.0% CDI,BANCO MODAL,No vencimento,False,False,101.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,181 dias,5000.0,13.8%,BANCO PAN,No vencimento,False,False,13.8,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,181 dias,1000.0,101.0% CDI,BANCO RNX,No vencimento,False,False,101.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,90 dias,100.0,101.0% CDI,BANCO ORIGINAL,No vencimento,False,False,101.0,Vencimento,NO VENCIMENTO,,,100.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
-CDB,,730 dias,50.0,101.0% CDI,BANCO BARI,Diária,False,False,101.0,Vencimento,Diária,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
-CDB,,730 dias,50.0,101.0% CDI,BANCO BARI,Diária após 186 dias,False,False,101.0,Vencimento,Diária após 186 dias,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
-CDB,,95 dias,1000.0,101.0% CDI,BANCO RNX,No vencimento,False,False,101.0,Vencimento,2023-08-28,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
-CDB,,67 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,Vencimento,2023-07-31,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
-CDB,,125 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,Vencimento,2023-09-27,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
-CDB,,35 dias,20000.0,101.0% CDI,BANCO DAYCOVAL,No vencimento,False,False,101.0,Vencimento,2023-06-29,AA,Fitch,20000.0,Órama,23.0,Orama,True,Distribuidora,True,,,P
 DEB,,4684 dias,10538.06,IPCA +7.58%,CONCESS. RAP. TAVARES,No vencimento,True,True,7.58,Vencimento,15/12/2035,BB+,S&P,10538.06,EQI Investimentos,15.0,EQI Investimentos,False,Corretora,False,,,S
 DEB,,4684 dias,10538.06,IPCA +7.58%,CONCESS. RAP. TAVARES,No vencimento,True,True,7.58,Vencimento,15/12/2035,BB+,S&P,10538.06,Necton,15.0,Necton,False,Corretora,False,,,S
 CDB,,3288 dias,1000.0,100.99% CDI,Banco BTG Pactual,No Vencimento,False,False,100.99,,D+0,AA,FITCH,1000.0,Ágora,,Ágora,,,,,,P
@@ -2285,8 +2285,6 @@ CDB,,730 dias,1000.0,100.0% CDI,VIA CERTA FINANCIADORA S/ ,No Vencimento,False,F
 CDB,,721 dias,1.0,100.0% CDI,BANCO INTER,Diária,False,False,100.0,Vencimento,721 dias,A-,Fitch,1.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,S
 CDB,,721 dias,1.0,100.0% CDI,BANCO INTER,No vencimento,False,False,100.0,Vencimento,721 dias,A-,Fitch,1.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,S
 CDB,,181 dias,5000.0,100.0% CDI,BANCO OMNI,No vencimento,False,False,100.0,Vencimento,0,A,S&P,5000.0,Banco Daycoval,20.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,90 dias,50000.0,13.65%,BANCO BTG PACTUAL,No vencimento,False,False,13.65,,,AAA,S&P,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,30 dias,1000.0,100.0% CDI,BANCO MODAL,No vencimento,False,False,100.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,181 dias,500.0,100.0% CDI,BANCO PINE,No vencimento,False,False,100.0,Vencimento,181 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,361 dias,500.0,100.0% CDI,BANCO PINE,No vencimento,False,False,100.0,Vencimento,361 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,540 dias,500.0,100.0% CDI,BANCO PINE,No vencimento,False,False,100.0,Vencimento,540 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
@@ -2300,6 +2298,8 @@ LCI RENDA MENSAL,,1095 dias,30000.0,100.0% CDI,BANCO BARI,No vencimento,False,Fa
 CDB,,95 dias,5000.0,100.0% CDI,BANCO GUANABARA,No vencimento,False,False,100.0,Vencimento,2023-08-28,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,95 dias,1000.0,100.0% CDI,BANCO CAIXA GERAL,No vencimento,False,False,100.0,Vencimento,2023-08-28,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,100.0% CDI,BANCO MASTER,Diária,False,False,100.0,Vencimento,2025-05-19,BBB-,Fitch,1000.0,Órama,16.0,Orama,True,Distribuidora,True,,,P
+CDB,,90 dias,50000.0,13.65%,BANCO BTG PACTUAL,No vencimento,False,False,13.65,,,AAA,S&P,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,30 dias,1000.0,100.0% CDI,BANCO MODAL,No vencimento,False,False,100.0,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 DEB,,5022 dias,1056.52,IPCA +7.44%,ITAPOA TERMINAIS PORTUARIOS S/A,No vencimento,True,True,7.44,Vencimento,17/11/2036,,,1056.52,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 DEB,,5022 dias,1056.52,IPCA +7.44%,ITAPOA TERMINAIS PORTUARIOS S/A,No vencimento,True,True,7.44,Vencimento,17/11/2036,,,1056.52,Necton,0.0,Necton,False,Corretora,False,,,S
 CRA,,1336 dias,1090.78,IPCA +7.43%,ZILOR,No vencimento,True,False,7.43,Vencimento,15/10/2026,,,1090.78,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
@@ -2413,10 +2413,10 @@ LCA,,1825 dias,1000.5028,99.0% CDI,RABOBANK ,D+90,True,False,99.0,,Sem carência
 CDB,,90 dias,1000.0,99.0% CDI,BANCO C6 CONSIGNADO S.A. ,No Vencimento,False,False,99.0,,Sem carência,brA-,S&P,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,181 dias,1000.0,13.5%,BANCO RNX,No vencimento,False,False,13.5,Sem Amortização,21/11/2023,,,1000.0,Genial Investimentos,0.0,Genial,False,Corretora,,True,,P
 CRA,,1869 dias,1015.46,99.0% CDI,BTG COMMODITIES,No vencimento,True,False,99.0,Vencimento,05/07/2028,,,1015.46,BTG Pactual digital,0.0,BTG Pactual digital,False,Banco,False,,,S
-CDB,,365 dias,1000.0,13.5%,C6 BANK,No vencimento,False,False,13.5,,,A-,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,90 dias,1000.0,99.0% CDI,BANCO RNX,No vencimento,False,False,99.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,67 dias,1000.0,99.0% CDI,BANCO CAIXA GERAL,No vencimento,False,False,99.0,Vencimento,2023-07-31,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,99.0% CDI,BANCO BS2,Diária,False,False,99.0,Vencimento,2025-05-19,BBB,Fitch,1000.0,Órama,17.0,Orama,True,Distribuidora,True,,,P
+CDB,,365 dias,1000.0,13.5%,C6 BANK,No vencimento,False,False,13.5,,,A-,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+CDB,,90 dias,1000.0,99.0% CDI,BANCO RNX,No vencimento,False,False,99.0,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,733 dias,1000.0,13.49%,AGIBANK,No vencimento,False,False,13.49,Vencimento,07/04/2025,BBB+,Fitch,1000.0,Guide,18.0,Guide,False,Corretora,,,,P
 DEB,,3223 dias,965.13,IPCA +7.28%,CUTIA EMPREENDIMENTOS EOLICOS S/A,No vencimento,True,True,7.28,Vencimento,15/12/2031,,,965.13,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 DEB,,3223 dias,965.13,IPCA +7.28%,CUTIA EMPREENDIMENTOS EOLICOS S/A,No vencimento,True,True,7.28,Vencimento,15/12/2031,,,965.13,Necton,0.0,Necton,False,Corretora,False,,,S
@@ -2468,8 +2468,8 @@ CDB,,30 dias,1000.0,13.4%,WILL FINANCEIRA ,No Vencimento,False,False,13.4,,No ve
 CDB,,30 dias,1000.0,13.4%,WILL FINANCEIRA ,No Vencimento,False,False,13.4,,Sem carência,,,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,181 dias,5000.0,13.4%,BANCO ALFA ,No Vencimento,False,False,13.4,Vencimento,Sem carência,AA,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,30 dias,1000.0,13.4%,BANCO PAN S/A ,No Vencimento,False,False,13.4,Vencimento,Sem carência,brAAA,S&P,1000.0,XP,0.0,XP,False,Corretora,False,,,P
-CDB,,365 dias,5000.0,13.4%,BANCO BR PARTNERS,No vencimento,False,False,13.4,,,A-,Fitch,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,186 dias,1000.0,13.4%,BANCO RNX,No vencimento,False,False,13.4,Vencimento,2023-11-27,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,365 dias,5000.0,13.4%,BANCO BR PARTNERS,No vencimento,False,False,13.4,,,A-,Fitch,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,90 dias,10000.0,13.39%,BANCO MODAL,No vencimento,False,False,13.39,Vencimento,90,A-,Moodys,10000.0,Terra Investimentos,19.0,Terra Investimentos,False,Distribuidora,,,,P
 CDB,,60 dias,1000.0,13.39%,BANCO MODAL,No vencimento,False,False,13.39,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,361 dias,2000.0,13.38%,BANCO NBC,No vencimento,False,False,13.38,Vencimento,361 dias dias,AAA,Fitch,2000.0,Nova Futura,25.0,Nova Futura,False,Corretora,False,,,P
@@ -2622,10 +2622,10 @@ CDB,,365 dias,5000.0,97.0% CDI,INTERMEDIUM ,No Vencimento,False,False,97.0,Venci
 CDB,,60 dias,1000.0,97.0% CDI,ICBC DO BRASIL BANCO MULT ,No Vencimento,False,False,97.0,Vencimento,Sem carência,AAA,Fitch,1.0,XP,0.0,XP,False,Corretora,False,,,S
 LF,,730 dias,50000.0,97.0% CDI,INTERMEDIUM ,No Vencimento,False,False,97.0,,Sem carência,,,50000.0,XP,0.0,XP,False,Corretora,False,,,P
 LCA,,721 dias,10000.0,97.0% CDI,BANCO ABC BRASIL,No vencimento,False,False,97.0,Vencimento,0,AAA,Fitch,10000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,120 dias,1000.0,97.0% CDI,BANCO MASTER,No vencimento,False,False,97.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-LCA,,721 dias,1000.0,97.0% CDI,BANCO ORIGINAL,No vencimento,False,False,97.0,Vencimento,NO VENCIMENTO,,,1000.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 LCI,,721 dias,500.0,97.0% CDI,BANCO PINE,No vencimento,False,False,97.0,Vencimento,721 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 LCI RENDA MENSAL,,730 dias,30000.0,97.0% CDI,BANCO BARI,No vencimento,False,False,97.0,Vencimento,No vencimento,,,30000.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+LCA,,721 dias,1000.0,97.0% CDI,BANCO ORIGINAL,No vencimento,False,False,97.0,Vencimento,NO VENCIMENTO,,,1000.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
+CDB,,120 dias,1000.0,97.0% CDI,BANCO MASTER,No vencimento,False,False,97.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,720 dias,1000.0,13.2%,PARANA BANCO,No vencimento,False,False,13.2,Vencimento,25/03/2025,AA+,S&P,1000.0,Guide,24.0,Guide,False,Corretora,,,,P
 CDB,,1463 dias,10000.0,13.2%,BANCO FIBRA,No vencimento,False,False,13.2,Vencimento,07/04/2027,B+,Fitch,10000.0,Guide,12.0,Guide,False,Corretora,,,,P
 CDB,,90 dias,1000.0,13.2%,BANCO MASTER,No vencimento,False,False,13.2,Vencimento,90,BBB-,Fitch,1000.0,Terra Investimentos,16.0,Terra Investimentos,False,Distribuidora,,,,P
@@ -2770,9 +2770,9 @@ LCI,,1080 dias,1000000.0,96.0% CDI,BANCO INTER,No Vencimento,False,False,96.0,Ve
 CRI,,1332 dias,1083.09,96.0% CDI,BANCO BTG PACTUAL,No vencimento,True,False,96.0,Vencimento,15/01/2027,AAA,S&P,1083.09,BTG Pactual digital,25.0,BTG Pactual digital,False,Banco,False,,,S
 CRA,,1391 dias,1039.5,96.0% CDI,BTG COMMODITIES,No vencimento,True,False,96.0,Vencimento,15/03/2027,,,1039.5,BTG Pactual digital,0.0,BTG Pactual digital,False,Banco,False,,,S
 CRA,,1332 dias,1055.68,96.0% CDI,BTG COMMODITIES,No vencimento,True,False,96.0,Vencimento,15/01/2027,,,1055.68,BTG Pactual digital,0.0,BTG Pactual digital,False,Banco,False,,,S
-CDB,,90 dias,1000.0,96.0% CDI,BANCO MASTER,No vencimento,False,False,96.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LCI,,550 dias,500.0,96.0% CDI,BANCO PINE,No vencimento,False,False,96.0,Vencimento,550 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,67 dias,20000.0,96.0% CDI,BANCO DA CHINA BRASIL,No vencimento,False,False,96.0,Vencimento,2023-07-31,,,20000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,90 dias,1000.0,96.0% CDI,BANCO MASTER,No vencimento,False,False,96.0,,,BBB-,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,182 dias,1000.0,13.06%,BANCO BMG,No vencimento,False,False,13.06,Vencimento,182,B+,Fitch,1000.0,Terra Investimentos,12.0,Terra Investimentos,False,Distribuidora,,,,P
 CDB,,181 dias,5000.0,13.06%,BANCO PINE,No vencimento,False,False,13.06,Vencimento,181,BB+,Fitch,5000.0,Terra Investimentos,15.0,Terra Investimentos,False,Distribuidora,,,,P
 CDB,,361 dias,5000.0,13.06%,BANCO BV,No vencimento,False,False,13.06,Vencimento,0,AA,Moodys,5000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
@@ -2906,9 +2906,9 @@ LCI,,360 dias,1000000.0,95.0% CDI,BANCO INTER,No Vencimento,False,False,95.0,Ven
 LCI,,720 dias,1000000.0,95.0% CDI,BANCO INTER,No Vencimento,False,False,95.0,Vencimento,720 dias,A-,Fitch,1000000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
 LCA,,1080 dias,50000.0,95.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,95.0,Vencimento,0,AAA,Fitch,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
 LCA,,1440 dias,50000.0,95.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,95.0,Vencimento,0,AAA,Fitch,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
-LCA,,362 dias,1000.0,95.0% CDI,BANCO ORIGINAL,No vencimento,False,False,95.0,Vencimento,NO VENCIMENTO,,,1000.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 LCI,,90 dias,500.0,95.0% CDI,BANCO PINE,No vencimento,False,False,95.0,Vencimento,90 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 LCI,,240 dias,50.0,95.0% CDI,BANCO BARI,No vencimento,False,False,95.0,Vencimento,No vencimento,,,50.0,Banco Bari,0.0,Banco Bari,False,Banco,True,,https://bit.ly/3gcKY8b,P
+LCA,,362 dias,1000.0,95.0% CDI,BANCO ORIGINAL,No vencimento,False,False,95.0,Vencimento,NO VENCIMENTO,,,1000.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
 CDB,,67 dias,50000.0,95.0% CDI,LECCA FINANCEIRA,No vencimento,False,False,95.0,Vencimento,2023-07-31,,,50000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,35 dias,20000.0,95.0% CDI,BANCO DA CHINA BRASIL,No vencimento,False,False,95.0,Vencimento,2023-06-29,AAA,S&P,20000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CDB,,365 dias,1000.0,12.92%,Banco Modal,No Vencimento,False,False,12.92,,D+0,A,FITCH,1000.0,Ágora,,Ágora,,,,,,P
@@ -2926,9 +2926,9 @@ CDB,,365 dias,1000.0,12.9%,BANCO PAN S/A ,No Vencimento,False,False,12.9,Vencime
 CDB,,730 dias,1000.0,12.9%,BANCO C6 CONSIGNADO S.A. ,No Vencimento,False,False,12.9,Vencimento,Sem carência,brA-,S&P,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 CDB,,540 dias,1000.0,12.9%,BANCO RNX,No vencimento,False,False,12.9,Sem Amortização,14/11/2024,,,1000.0,Genial Investimentos,0.0,Genial,False,Corretora,,True,,P
 CDB,,1080 dias,1000.0,12.9%,BANCO RNX,No vencimento,False,False,12.9,Sem Amortização,08/05/2026,,,1000.0,Genial Investimentos,0.0,Genial,False,Corretora,,True,,P
-CDB,,1460 dias,1000.0,12.9%,C6 BANK,No vencimento,False,False,12.9,,,A-,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LCI,,90 dias,500.0,12.9%,BANCO PINE,No vencimento,False,False,12.9,Vencimento,90 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,545 dias,1000.0,12.9%,BANCO RNX,No vencimento,False,False,12.9,Vencimento,2024-11-20,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,1460 dias,1000.0,12.9%,C6 BANK,No vencimento,False,False,12.9,,,A-,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CRI,,3528 dias,1036.83,IPCA +6.73%,DASA,No vencimento,True,True,6.73,Vencimento,15/10/2032,,,1036.83,EQI Investimentos,0.0,EQI Investimentos,False,Corretora,False,,,S
 CRI,,2495 dias,1039.16,IPCA +6.73%,HAPVIDA,No vencimento,True,False,6.73,Vencimento,17/12/2029,AAA,Fitch,1039.16,EQI Investimentos,25.0,EQI Investimentos,False,Corretora,False,,,S
 CRI,,2495 dias,1039.16,IPCA +6.73%,HAPVIDA,No vencimento,True,False,6.73,Vencimento,17/12/2029,AAA,Fitch,1039.16,Necton,25.0,Necton,False,Corretora,False,,,S
@@ -3032,10 +3032,10 @@ LCI,,360 dias,500000.0,94.0% CDI,BANCO INTER,No Vencimento,False,False,94.0,Venc
 LCI,,720 dias,500000.0,94.0% CDI,BANCO INTER,No Vencimento,False,False,94.0,Vencimento,720 dias,A-,Fitch,500000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
 CDB,,721 dias,10000.0,12.78%,AGIBANK,No vencimento,False,False,12.78,Vencimento,0,BBB+,Fitch,10000.0,Banco Daycoval,18.0,Banco Daycoval,False,Corretora,False,,,P
 LCA,,721 dias,50000.0,94.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,94.0,Vencimento,0,AAA,Fitch,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
-LCA,,1095 dias,50000.0,94.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,94.0,,,AAA,Fitch,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-LCA,,1460 dias,50000.0,94.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,94.0,,,AAA,Fitch,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LCI,,361 dias,1000.0,94.0% CDI,COMPANHIA HIPOTECARIA PIRATINI,No vencimento,False,False,94.0,Vencimento,2024-05-20,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,725 dias,1000.0,94.0% CDI,BANCO CAIXA GERAL,Diária,False,False,94.0,Vencimento,2025-05-19,A,Fitch,1000.0,Órama,20.0,Orama,True,Distribuidora,True,,,P
+LCA,,1095 dias,50000.0,94.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,94.0,,,AAA,Fitch,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
+LCA,,1460 dias,50000.0,94.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,94.0,,,AAA,Fitch,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,361 dias,100.0,12.77%,BANCO BMG,No vencimento,False,False,12.77,Vencimento,361 dias,B+,Fitch,100.0,BMG Invest digital,12.0,BMG Invest digital,False,Banco,False,,,P
 CDB,,1440 dias,2000.0,12.77%,BANCO NBC,No vencimento,False,False,12.77,Vencimento,1440 dias dias,AAA,Fitch,2000.0,Nova Futura,25.0,Nova Futura,False,Corretora,False,,,P
 CDB,,1260 dias,1000.0,12.77%,BANCO BMG,No vencimento,False,False,12.77,,,B+,Fitch,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
@@ -3100,14 +3100,14 @@ CDB,,900 dias,1.0,12.7%,BMG ,No Vencimento,False,False,12.7,Vencimento,Sem carê
 CDB,,1440 dias,1000.0,12.7%,BANCO RNX,No vencimento,False,False,12.7,Sem Amortização,03/05/2027,,,1000.0,Genial Investimentos,0.0,Genial,False,Corretora,,True,,P
 DEB,,6962 dias,1022.88,IPCA +8.17%,BRK AMBIENTAL MACEIO,SECUNDARIO,True,False,8.17,Vencimento,Vencimento,AA-,MOODYS,1022.88,Ativa Investimentos,0.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
 LF,,731 dias,50000.0,12.7%,BANCO DAYCOVAL,No vencimento,False,False,12.7,Vencimento,0,AA,Fitch,50000.0,Banco Daycoval,23.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,1446 dias,1000.0,12.7%,BANCO RNX,No vencimento,False,False,12.7,Vencimento,2027-05-10,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,540 dias,1000.0,12.7%,BANCO RNX,No vencimento,False,False,12.7,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1081 dias,1000.0,12.7%,BANCO RNX,No vencimento,False,False,12.7,,,,,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,1446 dias,1000.0,12.7%,BANCO RNX,No vencimento,False,False,12.7,Vencimento,2027-05-10,,,1000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,730 dias,1000.0,12.69%,OMNI S/A CREDITO FINANCIAMENTO E INVESTIMENTO ,No vencimento,False,False,12.69,Vencimento,730,,,1000.0,Terra Investimentos,0.0,Terra Investimentos,False,Distribuidora,,,,P
 DEB,,5501 dias,1139.48,IPCA +8.16%,HELIO VALGAS,SECUNDARIO,True,False,8.16,Vencimento,Vencimento,AA-,MOODY´S,1139.48,Ativa Investimentos,0.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
 DEB,,4924 dias,1036.87,IPCA +8.16%,ITAPOA,SECUNDARIO,True,False,8.16,Vencimento,Vencimento,AA,MOODYS,1036.87,Ativa Investimentos,0.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
-CDB,,365 dias,50000.0,12.69%,BANCO BTG PACTUAL,No vencimento,False,False,12.69,,,AAA,S&P,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,540 dias,1000.0,12.69%,BANCO ORIGINAL,No vencimento,False,False,12.69,Vencimento,NO VENCIMENTO,,,1000.0,Banco Original,15.0,Banco Original,False,Banco,False,,,P
+CDB,,365 dias,50000.0,12.69%,BANCO BTG PACTUAL,No vencimento,False,False,12.69,,,AAA,S&P,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CRA,,1514 dias,1062.823128,IPCA +8.15%,ADUBOS ARAGUAIA ,No Vencimento,True,True,8.15,,No vencimento,,,1062.823128,Rico,0.0,Rico,False,Corretora,False,,,S
 CRI,,2157 dias,1024.701965,IPCA +8.15%,BELENUS ,No Vencimento,True,True,8.15,,No vencimento,,,1024.701965,Rico,0.0,Rico,False,Corretora,False,,,S
 CDB,,730 dias,1000.0,12.68%,AGIBANK,No vencimento,False,False,12.68,Vencimento,730 dias dias,BBB+,Fitch,1000.0,Nova Futura,18.0,Nova Futura,False,Corretora,False,,,P
@@ -3191,8 +3191,8 @@ CRI,,4147 dias,1083.72583,IPCA +8.1%,SAGA MALLS ,No Vencimento,True,True,8.1,,No
 DEB,,2945 dias,1083.521898,IPCA +8.1%,VAMOS ,No Vencimento,False,True,8.1,,No vencimento,S&P,S&P,1083.521898,Rico,0.0,Rico,False,Corretora,False,,,S
 DEB,,2215 dias,1067.41678,IPCA +8.1%,MOVIDA ,No Vencimento,False,False,8.1,,No vencimento,Moody´s,Moody´s,1067.41678,Rico,0.0,Rico,False,Corretora,False,,,S
 DEB,,571 dias,5133.3,IPCA +8.1%,CONC. AUTO RAPOSO TAVARES,No vencimento,True,False,8.1,Vencimento,15/12/2024 dias,,,5133.3,Nova Futura,0.0,Nova Futura,False,Corretora,False,,,S
-CDB,,3600 dias,1000.0,12.62%,BANCO MODAL,No vencimento,False,False,12.62,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,361 dias,500.0,12.62%,BANCO PINE,No vencimento,False,False,12.62,Vencimento,361 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
+CDB,,3600 dias,1000.0,12.62%,BANCO MODAL,No vencimento,False,False,12.62,,,A-,Moodys,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1468 dias,20000.0,12.61%,BANCO DAYCOVAL,No vencimento,False,False,12.61,Vencimento,12/04/2027,AA,Fitch,20000.0,Guide,23.0,Guide,False,Corretora,,,,P
 CDB,,721 dias,10000.0,12.61%,BANCO ORIGINAL,No vencimento,False,False,12.61,Vencimento,721 dias dias,BB+,Fitch,10000.0,Nova Futura,15.0,Nova Futura,False,Corretora,False,,,P
 CDB,,733 dias,1000.0,12.61%,Banco Triângulo,No Vencimento,False,False,12.61,,D+0,A,FITCH,1000.0,Ágora,,Ágora,,,,,,P
@@ -3508,9 +3508,9 @@ DEB,,4223 dias,1120.76,IPCA +7.7%,VIARONDON,SECUNDARIO,True,False,7.7,Vencimento
 LCA,,181 dias,10000.0,90.0% CDI,BANCO ABC BRASIL,No vencimento,False,False,90.0,Vencimento,0,AAA,Fitch,10000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
 LCA,,361 dias,50000.0,90.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,90.0,Vencimento,0,AAA,Fitch,50000.0,Banco Daycoval,25.0,Banco Daycoval,False,Corretora,False,,,P
 LCA,,361 dias,5000.0,90.0% CDI,BDMG S.A,No vencimento,False,False,90.0,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
+LCA,,361 dias,20000.0,90.0% CDI,BANCO DA CHINA BRASIL,No vencimento,False,False,90.0,Vencimento,2024-05-20,AAA,S&P,20000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 LCA,,365 dias,50000.0,90.0% CDI,BANCO DESENV. MG,No vencimento,False,False,90.0,,,BBB+.br,Moodys,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LCA,,550 dias,50000.0,90.0% CDI,BANCO BOCOM BBM,No vencimento,False,False,90.0,,,AAA,Fitch,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-LCA,,361 dias,20000.0,90.0% CDI,BANCO DA CHINA BRASIL,No vencimento,False,False,90.0,Vencimento,2024-05-20,AAA,S&P,20000.0,Órama,25.0,Orama,True,Distribuidora,True,,,P
 CDB,,733 dias,20000.0,12.2%,BANCO DAYCOVAL,No vencimento,False,False,12.2,Vencimento,733,AA,Fitch,20000.0,Terra Investimentos,23.0,Terra Investimentos,False,Distribuidora,,,,P
 CDB,,540 dias,10000.0,12.2%,BANCO FIBRA,No vencimento,False,False,12.2,Vencimento,540,B+,Fitch,10000.0,Terra Investimentos,12.0,Terra Investimentos,False,Distribuidora,,,,P
 CDB,,720 dias,1.0,12.2%,BANCO SOFISA,No vencimento,False,False,12.2,,,A+,Fitch,1.0,Sofisa Direto,19.0,Sofisa Direto,False,Banco,,,,P
@@ -3983,9 +3983,9 @@ CDB,,712 dias,1128.59470708,IPCA +7.32%,AGIBANK ,No Vencimento,False,False,7.32,
 CDB,,713 dias,1.19793209,IPCA +7.32%,BMG ,No Vencimento,False,False,7.32,Vencimento,Sem carência,A,Fitch,1.19793209,XP,0.0,XP,False,Corretora,False,,,S
 CDB,,716 dias,1127.49176659,IPCA +7.32%,AGIBANK ,No Vencimento,False,False,7.32,Vencimento,Sem carência,BBB+,Fitch,1127.49176659,XP,0.0,XP,False,Corretora,False,,,S
 CDB,,712 dias,1.1124917,IPCA +7.32%,BMG ,No Vencimento,False,False,7.32,Vencimento,Sem carência,A,Fitch,1.1124917,XP,0.0,XP,False,Corretora,False,,,S
+CDB,,540 dias,500.0,11.81%,BANCO PINE,No vencimento,False,False,11.81,Vencimento,540 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,1800 dias,20000.0,11.81%,BANCO DAYCOVAL,No vencimento,False,False,11.81,,,AA,Fitch,20000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1096 dias,5000.0,11.81%,BANCO BV,No vencimento,False,False,11.81,,,AA,Moodys,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,540 dias,500.0,11.81%,BANCO PINE,No vencimento,False,False,11.81,Vencimento,540 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 CDB,,733 dias,20000.0,11.8%,BANCO DAYCOVAL,No Vencimento,False,False,11.8,,No Vencimento,AA,Fitch,20000.0,RB Investimentos,23.0,RB Investimentos,False,Corretora,False,,,P
 CDB,,1440 dias,10000.0,11.8%,BANCO PAN,No Vencimento,False,False,11.8,,No Vencimento,AAA,S&P,10000.0,RB Investimentos,25.0,RB Investimentos,False,Corretora,False,,,P
 CDB,,915 dias,20000.0,11.8%,BANCO DAYCOVAL,No vencimento,False,False,11.8,Vencimento,915 dias dias,AA,Fitch,20000.0,Nova Futura,23.0,Nova Futura,False,Corretora,False,,,P
@@ -4114,9 +4114,9 @@ CDB,,730 dias,1000.0,11.7%,BANCO PAN S/A ,No Vencimento,False,False,11.7,,No ven
 LCA,,120 dias,1000.0,86.5% CDI,BANCO ABC ,No Vencimento,True,False,86.5,,No vencimento,Fitch,Fitch,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 CDB,,730 dias,1000.0,11.7%,BANCO PAN S/A ,No Vencimento,False,False,11.7,Vencimento,Sem carência,brAAA,S&P,1000.0,XP,0.0,XP,False,Corretora,False,,,P
 LCA,,120 dias,5000.0,86.5% CDI,BANCO ABC ,D+90,True,False,86.5,Vencimento,Sem carência,AAA,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
-CDB,,1440 dias,5000.0,11.7%,BANCO PAN,No vencimento,False,False,11.7,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LC,,725 dias,5000.0,11.7%,AGORACRED,No vencimento,False,False,11.7,Vencimento,2025-05-19,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 LC,,1085 dias,5000.0,11.7%,AGORACRED,No vencimento,False,False,11.7,Vencimento,2026-05-14,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
+CDB,,1440 dias,5000.0,11.7%,BANCO PAN,No vencimento,False,False,11.7,,,AAA,S&P,5000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,2191 dias,5000.0,11.69%,BANCO PINE,No vencimento,False,False,11.69,Vencimento,2191,BB+,Fitch,5000.0,Terra Investimentos,15.0,Terra Investimentos,False,Distribuidora,,,,P
 CRI,,4073 dias,992.810695,IPCA +7.2%,MATEUS SUPERMERCADOS ,No Vencimento,True,True,7.2,,No vencimento,Fitch,Fitch,992.810695,Rico,0.0,Rico,False,Corretora,False,,,S
 CRI,,2400 dias,1074.523632,IPCA +7.2%,ÂNIMA HOLDING S.A. ,No Vencimento,True,False,7.2,,No vencimento,Moody´s,Moody´s,1074.523632,Rico,0.0,Rico,False,Corretora,False,,,S
@@ -4292,8 +4292,8 @@ CRA,,1638 dias,1156.746641,IPCA +7.0%,ADECOAGRO ,No Vencimento,True,True,7.0,Anu
 CRA,,1391 dias,1104.622344,IPCA +7.0%,USINA COLOMBO ,No Vencimento,True,True,7.0,Anual a partir de: 16/03/2026,Sem carência,brAAA,S&P,1104.622344,XP,0.0,XP,False,Corretora,False,,,S
 DEB,,3340 dias,1047.2,IPCA +7.0%,CSN MINERACAO,SECUNDARIO,True,False,7.0,Vencimento,Vencimento,AAA,FITCH,1047.2,Ativa Investimentos,25.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
 CRA,,1818 dias,1071.06,IPCA +7.0%,JOSE ALVES,No vencimento,True,False,7.0,Vencimento,15/05/2028,,,1071.06,BTG Pactual digital,0.0,BTG Pactual digital,False,Banco,False,,,S
-CDB,,730 dias,50000.0,11.48%,BANCO BTG PACTUAL,No vencimento,False,False,11.48,,,AAA,S&P,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1089 dias,1185.72056146,IPCA +7.0%,BANCO PAN,No vencimento,False,False,7.0,Vencimento,2026-05-18,AAA,S&P,1185.72056146,Órama,25.0,Orama,True,Distribuidora,True,,,S
+CDB,,730 dias,50000.0,11.48%,BANCO BTG PACTUAL,No vencimento,False,False,11.48,,,AAA,S&P,50000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,915 dias,5000.0,11.47%,BANCO BTG PACTUAL,No vencimento,False,False,11.47,Vencimento,915 dias dias,AAA,S&P,5000.0,Nova Futura,25.0,Nova Futura,False,Corretora,False,,,P
 DEBÊNTURE,,2658 dias,19160.0,IPCA +7.26%,PARANAGUA SANEAMENTO,No vencimento,False,False,7.26,Vencimento,15/07/2030,,,19160.0,Guide,0.0,Guide,False,Corretora,,,,S
 CDB,,1440 dias,1000.0,11.46%,BANCO MODAL,No Vencimento,False,False,11.46,,No Vencimento,A-,Moodys,1000.0,RB Investimentos,19.0,RB Investimentos,False,Corretora,False,,,P
@@ -4585,9 +4585,9 @@ CRA,,2245 dias,1088.284417,IPCA +6.6%,MINERVA ,No Vencimento,True,False,6.6,Venc
 CDB,,1080 dias,1000000.0,82.0% CDI,BANCO INTER,Diária,False,False,82.0,Vencimento,1080 dias,A-,Fitch,1000000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
 CDB,,1440 dias,5000.0,11.06%,BDMG S.A,No vencimento,False,False,11.06,Vencimento,0,,,5000.0,Banco Daycoval,0.0,Banco Daycoval,False,Corretora,False,,,P
 LCI,,181 dias,10000.0,11.06%,BANCO RODOBENS,No vencimento,False,False,11.06,Vencimento,0,AA+,Fitch,10000.0,Banco Daycoval,24.0,Banco Daycoval,False,Corretora,False,,,P
+CDB,,2559 dias,5000.0,IPCA +6.6%,SOCINAL FINANCEIRA,No vencimento,False,False,6.6,Vencimento,2030-05-27,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CDB,,912 dias,10000.0,IPCA +6.6%,BANCO FIBRA,No vencimento,False,False,6.6,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1095 dias,10000.0,IPCA +6.6%,BANCO FIBRA,No vencimento,False,False,6.6,,,B+,Fitch,10000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
-CDB,,2559 dias,5000.0,IPCA +6.6%,SOCINAL FINANCEIRA,No vencimento,False,False,6.6,Vencimento,2030-05-27,,,5000.0,Órama,0.0,Orama,True,Distribuidora,True,,,P
 CRA,,832 dias,4390.0,IPCA +6.87%,ECO SECURITIZADORA,No vencimento,False,False,6.87,Vencimento,15/07/2025,,,4390.0,Guide,0.0,Guide,False,Corretora,,,,S
 LCI,,1097 dias,1000.0,11.05%,BANCO PINE,No vencimento,False,False,11.05,Vencimento,1097,BB+,Fitch,1000.0,Terra Investimentos,15.0,Terra Investimentos,False,Distribuidora,,,,P
 CDB,,1080 dias,30000.0,11.05%,BANCO ABC BRASIL,No Vencimento,False,False,11.05,,No Vencimento,AAA,Fitch,30000.0,RB Investimentos,25.0,RB Investimentos,False,Corretora,False,,,P
@@ -4645,9 +4645,9 @@ DEB,,3249 dias,1028.99,IPCA +6.54%,ENERGISA,SECUNDARIO,True,False,6.54,Venciment
 DEB,,3066 dias,1084.51,IPCA +6.54%,ENERGISA MT DIST,SECUNDARIO,True,False,6.54,Vencimento,Vencimento,AAA,FITCH,1084.51,Ativa Investimentos,0.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
 DEB,,3066 dias,1084.51,IPCA +6.54%,ENERGISA MS DIST,SECUNDARIO,True,False,6.54,Vencimento,Vencimento,AAA,FITCH,1084.51,Ativa Investimentos,0.0,Ativa Investimentos,False,Corretora,True,,https://cadastro.ativainvestimentos.com.br/?utm_source=apprendafixa&utm_medium=email&utm_campaign=debenture_2508,S
 CDB,,1440 dias,5000.0,11.0%,BANCO PINE,No vencimento,False,False,11.0,Vencimento,0,BB+,Fitch,5000.0,Banco Daycoval,15.0,Banco Daycoval,False,Corretora,False,,,P
-CDB,,721 dias,50.0,11.0%,BANCO RCI,No vencimento,False,False,11.0,Vencimento,No vencimento,AA+,Moodys,50.0,Banco RCI,24.0,Banco RCI,False,Banco,True,,https://bancorci.onelink.me/J1lr/28d6d09a,P
 LCI,,721 dias,500.0,11.0%,BANCO PINE,No vencimento,False,False,11.0,Vencimento,721 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
 LCI,,1095 dias,500.0,11.0%,BANCO PINE,No vencimento,False,False,11.0,Vencimento,1095 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
+CDB,,721 dias,50.0,11.0%,BANCO RCI,No vencimento,False,False,11.0,Vencimento,No vencimento,AA+,Moodys,50.0,Banco RCI,24.0,Banco RCI,False,Banco,True,,https://bancorci.onelink.me/J1lr/28d6d09a,P
 LCA,,538 dias,50000.0,10.99%,BANCO BOCOM BBM,No vencimento,False,False,10.99,Vencimento,24/09/2024,AAA,Fitch,50000.0,Guide,25.0,Guide,False,Corretora,,,,P
 CRA,,2963 dias,10820.0,IPCA +6.81%,ECO SECURITIZADORA,No vencimento,False,False,6.81,Vencimento,16/05/2031,,,10820.0,Guide,0.0,Guide,False,Corretora,,,,S
 CDB,,733 dias,1000.0,10.99%,BANCO PINE,No Vencimento,False,False,10.99,,No Vencimento,BB+,Fitch,1000.0,RB Investimentos,15.0,RB Investimentos,False,Corretora,False,,,P
@@ -5449,8 +5449,8 @@ LCA,,915 dias,1000.0,9.16%,BANCO BTG PACTUAL,No Vencimento,True,False,9.16,,,AAA
 LCA,,915 dias,1000.0,9.16%,Banco BTG Pactual,No Vencimento,False,False,9.16,,D+0,AA,FITCH,1000.0,Ágora,,Ágora,,,,,,P
 LCA,,915 dias,1000.0,9.15%,BANCO DESENV. MG,No Vencimento,True,False,9.15,,,BBB+.br,Moodys,1000.0,Nuinvest,0.0,Nuinvest,False,Nuinvest,False,,,P
 LCI,,1100 dias,500000.0,IPCA +4.77%,BANCO INTER,No vencimento,False,False,4.77,Vencimento,1100 dias,A-,Fitch,500000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
-LCA,,1461 dias,1000.0,9.15%,BANCO BTG PACTUAL,No vencimento,False,False,9.15,,,AAA,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1440 dias,500.0,IPCA +4.77%,BANCO PINE,No vencimento,False,False,4.77,Vencimento,1440 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
+LCA,,1461 dias,1000.0,9.15%,BANCO BTG PACTUAL,No vencimento,False,False,9.15,,,AAA,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LCA,,1097 dias,1000.0,9.13%,BANCO BTG PACTUAL,No Vencimento,True,False,9.13,,,AAA,S&P,1000.0,Nuinvest,25.0,Nuinvest,False,Nuinvest,False,,,P
 LCA,,1097 dias,1000.0,9.13%,Banco BTG Pactual,No Vencimento,False,False,9.13,,D+0,AA,FITCH,1000.0,Ágora,,Ágora,,,,,,P
 LCI,,1100 dias,250000.0,IPCA +4.75%,BANCO INTER,No vencimento,False,False,4.75,Vencimento,1100 dias,A-,Fitch,250000.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,P
@@ -5458,8 +5458,8 @@ LCI,,1099 dias,1000.0,IPCA +5.0%,BANCO BARI,No vencimento,False,False,5.0,Vencim
 CDB,,1097 dias,1000.0,IPCA +4.73%,BANCO PINE,No vencimento,False,False,4.73,Vencimento,1097 dias dias,BB+,Fitch,1000.0,Nova Futura,15.0,Nova Futura,False,Corretora,False,,,P
 CDB,,1097 dias,1000.0,IPCA +4.73%,Banco Pine,No Vencimento,False,False,4.73,,D+0,BBB-,FITCH,1000.0,Ágora,,Ágora,,,,,,P
 LCI,,1100 dias,50.0,IPCA +4.73%,BANCO INTER,No vencimento,False,False,4.73,Vencimento,1100 dias,A-,Fitch,50.0,Banco Inter,19.0,Banco Inter,False,Banco,False,,,S
-LCA,,912 dias,1000.0,9.11%,BANCO BTG PACTUAL,No vencimento,False,False,9.11,,,AAA,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 CDB,,1800 dias,500.0,IPCA +4.73%,BANCO PINE,No vencimento,False,False,4.73,Vencimento,1800 dias,BB+,Fitch,500.0,Banco Pine,15.0,Banco Pine,False,Banco,False,,,P
+LCA,,912 dias,1000.0,9.11%,BANCO BTG PACTUAL,No vencimento,False,False,9.11,,,AAA,S&P,1000.0,modalmais,0.0,modalmais,False,Distribuidora,True,,,P
 LC,,1080 dias,1000.0,9.1%,SANTINVEST,No vencimento,False,False,9.1,Vencimento,20/03/2026,BBB-,Fitch,1000.0,Guide,16.0,Guide,False,Corretora,,,,P
 LCA,,730 dias,1000.0,IPCA +4.7%,BANCO BOCOM BBM SA ,No Vencimento,True,False,4.7,,No vencimento,Fitch,Fitch,1000.0,Rico,0.0,Rico,False,Corretora,False,,,P
 LCA,,730 dias,50000.0,IPCA +4.7%,BANCO BOCOM BBM SA ,D+90,True,False,4.7,,Sem carência,AAA,Fitch,1000.0,XP,0.0,XP,False,Corretora,False,,,P
